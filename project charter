@@ -1,3 +1,4 @@
+PROJECT CHARTER
 "Perancangan Digital Twin Tangki Air untuk Monitoring Ketinggian dan Kondisi Air Secara Real-Time"
 
 1. Latar Belakang
@@ -104,6 +105,6 @@ d. Catatan Risiko
 
 |              Nama                  |        NIM      |                Peran                       |
 |------------------------------------|-----------------|--------------------------------------------|
-| Dekna Mutiara Ramadhani            |     240504080   | Ketua Tim / Project Manager (Scrum Master) |
-| Nur Aimi Nadia Binti Hanafiah      |     240504077   |       System Analyst & UX Designer         |
+| Dekna Mutiara Ramadhani            |     240504080   |  Ketua Tim / Project Manager UX Designer   |
+| Nur Aimi Nadia Binti Hanafiah      |     240504077   |             System Analyst                 |
 | Meisya Amelia Lubis                |     240504088   |        Developer & Database Engineer       |
